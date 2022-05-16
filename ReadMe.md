@@ -22,7 +22,7 @@ THEN I can save my initials and score
 
 ## Link to deployed application
 
-https://empathyrecoveryblitz.github.io/JavaScript-fundamentals-Quiz/
+https://empathyrecoveryblitz.github.io/Javascript-Fundamentals-Quiz/
 
 ## Installation Instructions: 
 
