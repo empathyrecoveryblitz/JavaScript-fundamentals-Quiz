@@ -23,16 +23,3 @@ THEN I can save my initials and score
 ## Link to deployed application
 
 https://empathyrecoveryblitz.github.io/Javascript-Fundamentals-Quiz/
-
-## Installation Instructions: 
-
-Launch site in default browser.
-
-## Images:
-
-![Project Screenshot](./Assets/LaunchPage.png)
-![Project Screenshot](./Assets/AskQuestionExample.png)
-![Project Screenshot](./Assets/CorrectAnswerExample.png)
-![Project Screenshot](./Assets/WrongAnswerExample.png)
-![Project Screenshot](./Assets/FinishPageExample.png)
-![Project Screenshot](./Assets/HighScoreExample.png)
